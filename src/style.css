@@ -5,6 +5,7 @@
 
 @theme inline {
     --color-bg: var(--clr-gray-900);
+    --color-green-300: var(--clr-green-300)
 }
 
 @layer base {
